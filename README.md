@@ -39,4 +39,4 @@ Here the focus was on Hopfield Networks. A rather outdated network architecture,
 
 In the final assignment, focus was on deep neural networks and more specifically Restricted Boltzmann Machines (RBMs) and Deep Belief Nets (DBNs). Image recognition tasks were performed on both architectures. Greedy layer-wise pretraining was explored on the DBNs, consisting of stacked RBM architectures. The generation task was also explored using Gibbs sampling.
 
-More details available in the <a href="#">project reports</a>
+More details available in the <a href="#">assignment reports</a>
